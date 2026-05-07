@@ -113,3 +113,27 @@ main{
     gap: 300px;
     margin-bottom: 75px;
 }
+.planos h3{
+    text-align: center;
+    font-weight: 500;
+    color: var(--cor-texto);
+    font-size: 1.35em;
+}
+.subtitulo{
+    text-align: center;
+    font-weight: 450;
+    font-size: 1em;
+    color: var(--cor-texto-secundaria);
+    padding-bottom: 5%;
+}
+.botao-planos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.planos a h4{
+    color: var(--cor-principal);
+
+}
